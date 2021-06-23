@@ -1,27 +1,19 @@
-<!-- Badges -->
-<p align="center">
-   <a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/">
-      <img alt="Felipe Holanda" src="https://img.shields.io/badge/-Felipe Holanda-blue?style=flat&logo=Linkedin&logoColor=bluee" />
-   </a>
-</p>
+# Sobre o Projeto
 
-<!-- Indice-->
-<p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-Tecnologias">Tecnologias</a> • 
-</p>
+<p aling="center">Esse projeto...</p>
+<a href="#sobre">Sobre</a> 
+<a href="#Roadmap">Roadmap</a>
+<a href="#Tecnologias">Tecnologias</a>
+<a href="#Autor">Autor</a>
 
-<!--Sobre o projeto-->
-## 💻 Sobre o projeto
+<br>
 
-Desenvolvimento de uma pagina similar a da BMW Brasil para conseguir uma vaga de emprego na BMW como estágiario.
+<h4 aling="center">
+  🚧 Projeto BMW 🚀 Em construção... 🚧
+  </h4>
 
-## 🚀  Tecnologias
-- [x] **HTML**
-- [x] **CSS**
+  ### 🚀 Tecnologias
 
-#### Ferramentas
-- [**VS CODE**]()
+  - [x] HTML
+  - [x] CSS
 
-
-<h4 align=center>Desenvolvido por Felipe Holanda <a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/"> <strong>Entre em contato</strong> :)</a></a></h4>
