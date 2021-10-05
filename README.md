@@ -16,6 +16,7 @@
 <a href="#sobre">Sobre</a> •
 <a href="#Roadmap">Roadmap</a> •
 <a href="#Tecnologias">Tecnologias</a> •
+<a href="#Ferramentas">Ferramentas</a> •
 <a href="#Autor">Autor</a>
 
 <br>
@@ -40,6 +41,10 @@
   #### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
+
+  ### Autor
+  
+   Felipe Holanda de Freitas
 
 
   Made with 💜 by FELIPE HOLANDA 👋🏻 [See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)
