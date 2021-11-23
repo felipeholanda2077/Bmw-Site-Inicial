@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Sobre o Projeto
+# Sobre o Projeto
 
 <h4>Meu primeiro site feito com progamação fiz para ser um teste para mim mesmo para saber meu desempenho</h4>
 
