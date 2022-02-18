@@ -21,7 +21,8 @@
 <br>
 
 <h4 aling="center">
-  🚧 Projeto BMW 🚀 Em construção... 🚧
+  🚧 Projeto BMW 🚀 Em construção... 🚧 
+   ⚠ Projeto reposisionado para MVC - Versão mais recente ⚠
   </h4>
 
   ### 🚀 Tecnologias
