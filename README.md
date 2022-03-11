@@ -29,7 +29,7 @@
    ⚠ Projeto reposisionado para MVC - Versão mais recente ⚠
   </h4>
 
-  ### 🚀 Tecnologias
+  ### Tecnologias
 
   As seguintes ferramentas foram usadas na construção do projeto:
 
