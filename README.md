@@ -5,7 +5,7 @@
 
 <br>
 
-<p align="center">Índice...<br>
+<p align="center">ÍNDICE<br>
 <a href="#sobre">Sobre</a> •
 <a href="#Roadmap">Roadmap</a> •
 <a href="#Tecnologias">Tecnologias</a> •
