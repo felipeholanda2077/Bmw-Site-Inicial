@@ -1,4 +1,4 @@
-<h1 aling="center">Sobre o Projeto</h1>
+<h1 align="center">Sobre o Projeto</h1>
 
 <h4>Meu primeiro site feito com progamação fiz para ser um teste para mim mesmo para saber meu desempenho de meu potencial</h4>
 
