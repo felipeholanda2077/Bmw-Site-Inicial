@@ -17,7 +17,6 @@
    ⚠ Projeto reposisionado para MVC - Versão mais recente ⚠
   </h4>
   <br>
-  <br>
 
 <h1 align="center">
    <img alt="Readme" title="Readme" src="Back.png" />
@@ -28,6 +27,7 @@
 <h4 align="center">
    ⚠ Projeto reposisionado para MVC - Versão mais recente ⚠
   </h4>
+  <br>
 
   ### Tecnologias
 
