@@ -5,12 +5,12 @@
 
 <br>
 
-<p aling="center">Esse projeto...</p>
+<p align="center">Esse projeto...
 <a href="#sobre">Sobre</a> •
 <a href="#Roadmap">Roadmap</a> •
 <a href="#Tecnologias">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a> •
-<a href="#Autor">Autor</a>
+<a href="#Autor">Autor</a></p>
 
 <br>
 <h4 aling="center">
