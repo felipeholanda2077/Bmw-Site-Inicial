@@ -5,7 +5,7 @@
 
 <br>
 
-<p align="center">Esse projeto...
+<p align="center">Índice...<br>
 <a href="#sobre">Sobre</a> •
 <a href="#Roadmap">Roadmap</a> •
 <a href="#Tecnologias">Tecnologias</a> •
@@ -13,19 +13,19 @@
 <a href="#Autor">Autor</a></p>
 
 <br>
-<h4 aling="center">
+<h4 align="center">
    ⚠ Projeto reposisionado para MVC - Versão mais recente ⚠
   </h4>
   <br>
   <br>
 
-<h1 aling="center">
+<h1 align="center">
    <img alt="Readme" title="Readme" src="Back.png" />
 </h1>
 
 <br>
 
-<h4 aling="center">
+<h4 align="center">
    ⚠ Projeto reposisionado para MVC - Versão mais recente ⚠
   </h4>
 
@@ -47,4 +47,4 @@
 
   # Me siga
 
-  Made with 💜 by FELIPE HOLANDA 👋🏻 [See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)
+  <p aling="center">Made with 💜 by FELIPE HOLANDA 👋🏻 <br>[See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
