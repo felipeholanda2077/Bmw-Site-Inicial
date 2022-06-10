@@ -27,7 +27,8 @@
 
 <h4 align="center">
    ⚠ Projeto reposisionado para MVC - Versão mais recente ⚠
-  </h4>
+</h4>
+  
   <br>
 
   ### Tecnologias
